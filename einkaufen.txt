@@ -1,8 +1,8 @@
-brot 
-brötchen
-nudeln
-reis
-sekt
-bier 
-rotwein
+Brot 
+Brötchen
+Nudeln
+Reis
+Sekt
+Bier 
+Rotwein
 
